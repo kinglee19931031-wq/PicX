@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.4",
-  "minSupportedVersion": "1.0.3",
+  "latestVersion": "1.0.6",
+  "minSupportedVersion": "1.0.5",
   "force": false,
   "title": "PicX 有新版本",
   "message": "修复问题并优化体验，建议更新。",
